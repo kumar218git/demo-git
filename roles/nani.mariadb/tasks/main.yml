@@ -1,0 +1,4 @@
+---
+# tasks file for nani.mariadb
+- name: mariadb
+  package: name=mariadb-server state=present
