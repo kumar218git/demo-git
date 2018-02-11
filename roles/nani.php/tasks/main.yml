@@ -1,0 +1,4 @@
+---
+# tasks file for nani.php
+- name: phpserver
+  package: name=php state=present

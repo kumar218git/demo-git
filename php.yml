@@ -1,0 +1,4 @@
+---
+- hosts: phpserver
+  roles:
+   - nani.php
